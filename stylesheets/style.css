@@ -4,6 +4,18 @@
 .top-50 { top: 50% }
 .link:hover { background: url(/images/line.png) repeat-x left bottom; }
 
+.large {
+  font-size: 36px;
+}
+
+.medium {
+  font-size: 20px;
+}
+
+.nice-font {
+  font-family: 'Krub', sans-serif;
+}
+
 /* Markdown styles */
 .markdown-body a {
   text-decoration: none;
